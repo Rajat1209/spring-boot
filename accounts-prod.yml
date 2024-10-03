@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Accounts Service PROD"
   contactDetails:
     name: "John Doe PROD"
-    email: "john.doeProd@gmail.com"
+    email: "{cipher}755936a8bb610702b691c840f2352d43238dda16b587bbdd99a29b0e820be3da4489d38b861483a6f3ba94984c9f81eb"
   onCallSupport:
     - (555) 235-5435
     - (666) 213-6573
